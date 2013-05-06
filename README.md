@@ -7,7 +7,7 @@ User can select the type of players (human, machine, or random) and the board si
 
 To run, compile and execute:  
 
-    $ java Game [player1] [player2] [size]  
+    java Game [player1] [player2] [size]  
 
 [player1], [player2]: "human", "machine", or "random"; player1 goes first.  
 [size]: positive integer that specifies the width of the board.
